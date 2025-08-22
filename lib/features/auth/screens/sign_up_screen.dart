@@ -46,7 +46,7 @@ class SignUpScreenState extends State<SignUpScreen> {
 
               CustomImageWidget(
                 image: Get.find<SplashController>().configModel?.logoFullUrl ?? '',
-                height: 50, width: 200, fit: BoxFit.contain,
+                height: 100, width: 200, fit: BoxFit.contain,
               ),
               const SizedBox(height: Dimensions.paddingSizeOverLarge),
 

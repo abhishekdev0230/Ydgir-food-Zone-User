@@ -1,4 +1,4 @@
-package com.sixamtech.stackfooduser
+package com.yadgirfoodzone.user
 
 import io.flutter.embedding.android.FlutterActivity
 

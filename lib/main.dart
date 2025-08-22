@@ -50,19 +50,19 @@ Future<void> main() async {
 
   if(GetPlatform.isWeb) {
     await Firebase.initializeApp(options: const FirebaseOptions(
-      apiKey: 'AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA',
-      appId: '1:491987943015:android:fe79b69339834d5c8f1ec2',
-      messagingSenderId: '491987943015',
-      projectId: 'stackmart-500c7',
+      apiKey: 'AIzaSyDWncIj5l-qNldsLAn7bm96Hg0r4gyl0cQ',
+      appId: '1:817746781237:android:8c1d485d56597700fa3d7c',
+      messagingSenderId: '817746781237',
+      projectId: 'yadgir-food-zone',
     ));
     MetaSEO().config();
   }else if(GetPlatform.isAndroid) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA',
-        appId: '1:491987943015:android:fe79b69339834d5c8f1ec2',
-        messagingSenderId: '491987943015',
-        projectId: 'stackmart-500c7',
+        apiKey: 'AIzaSyDWncIj5l-qNldsLAn7bm96Hg0r4gyl0cQ',
+        appId: '1:817746781237:android:8c1d485d56597700fa3d7c',
+        messagingSenderId: '817746781237',
+        projectId: 'yadgir-food-zone',
       ),
     );
   } else {

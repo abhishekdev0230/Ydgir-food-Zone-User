@@ -84,6 +84,7 @@ class Images {
   static const String subscriptionOrder = 'assets/image/subscription_order.png';
   static const String regularOrder = 'assets/image/regular_order.png';
   static const String appleLogo = 'assets/image/apple_logo.png';
+  static const String appLogo = 'assets/image/appLogo.jpg';
   static const String weather = 'assets/image/weather.png';
   static const String resetLock = 'assets/image/reset_lock.png';
   static const String placeholderPng = 'assets/image/placeholder.png';

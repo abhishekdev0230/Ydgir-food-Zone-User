@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:ffi';
 import 'dart:io';
 import 'package:stackfood_multivendor/common/widgets/custom_image_widget.dart';
 import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
@@ -95,7 +96,7 @@ class SignInScreenState extends State<SignInScreen> {
 
                 CustomImageWidget(
                   image: Get.find<SplashController>().configModel?.logoFullUrl ?? '',
-                  height: 50, width: 200, fit: BoxFit.contain,
+                  height: 200, width:200, fit: BoxFit.contain,
                 ),
                 const SizedBox(height: Dimensions.paddingSizeOverLarge),
 
@@ -108,6 +109,5 @@ class SignInScreenState extends State<SignInScreen> {
       ),
     );
   }
-
 }
 

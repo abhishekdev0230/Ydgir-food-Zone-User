@@ -77,16 +77,17 @@ class SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black,
       key: _globalKey,
       body: GetBuilder<SplashController>(builder: (splashController) {
         return Center(
           child: splashController.hasConnection ? Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Image.asset(Images.logo, width: 100),
+              Image.asset(Images.appLogo, width: 250),
               const SizedBox(height: Dimensions.paddingSizeLarge),
 
-              Image.asset(Images.logoName, width: 150),
+              // Image.asset(Images.logoName, width: 150),
             ],
           ) : NoInternetScreen(child: SplashScreen(notificationBody: widget.notificationBody, linkBody: widget.linkBody)),
         );
