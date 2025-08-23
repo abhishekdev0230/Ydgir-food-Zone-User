@@ -41,7 +41,9 @@ class OrderInfoSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    ExpansibleController expansionTileController = ExpansibleController();
+    // ExpansibleController expansionTileController = ExpansibleController();
+    ExpansionTileController expansionTileController = ExpansionTileController();
+
     bool subscription = order.subscription != null;
 
     bool pending = order.orderStatus == AppConstants.pending;
@@ -1159,7 +1161,7 @@ class OrderInfoSection extends StatelessWidget {
   }
 }
 
-Widget offlineView(BuildContext context, OrderController orderController, ExpansibleController controller, bool ongoing, String? contactNumber) {
+Widget offlineView(BuildContext context, OrderController orderController, ExpansionTileController controller, bool ongoing, String? contactNumber) {
   return ListTileTheme(
     contentPadding: const EdgeInsets.all(0),
     dense: true,

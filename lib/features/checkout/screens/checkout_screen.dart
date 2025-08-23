@@ -66,7 +66,8 @@ class CheckoutScreenState extends State<CheckoutScreen> {
   final serviceFeeTooltipController = JustTheController();
   final deliveryFeeTooltipController = JustTheController();
 
-  final ExpansibleController expansionTileController = ExpansibleController();
+  // final ExpansibleController expansionTileController = ExpansibleController();
+  final ExpansionTileController expansionTileController = ExpansionTileController();
 
   final TextEditingController guestContactPersonNameController = TextEditingController();
   final TextEditingController guestContactPersonNumberController = TextEditingController();

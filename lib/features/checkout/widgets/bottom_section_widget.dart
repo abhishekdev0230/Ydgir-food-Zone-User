@@ -48,7 +48,9 @@ class BottomSectionWidget extends StatelessWidget {
   final TextEditingController guestEmailController;
   final FocusNode guestNumberNode;
   final FocusNode guestEmailNode;
-  final ExpansibleController expansionTileController;
+  // final ExpansibleController expansionTileController;
+  final ExpansionTileController expansionTileController;
+
   final JustTheController serviceFeeTooltipController;
   final double referralDiscount;
   final double extraPackagingAmount;
