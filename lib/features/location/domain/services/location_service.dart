@@ -1,17 +1,17 @@
-import 'package:stackfood_multivendor/features/location/domain/models/prediction_model.dart';
-import 'package:stackfood_multivendor/features/location/domain/models/zone_response_model.dart';
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/features/location/domain/reposotories/location_repo_interface.dart';
-import 'package:stackfood_multivendor/features/location/domain/services/location_service_interface.dart';
-import 'package:stackfood_multivendor/features/location/widgets/permission_dialog.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/features/location/domain/models/prediction_model.dart';
+import 'package:Yadgir_Food/features/location/domain/models/zone_response_model.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/features/location/domain/reposotories/location_repo_interface.dart';
+import 'package:Yadgir_Food/features/location/domain/services/location_service_interface.dart';
+import 'package:Yadgir_Food/features/location/widgets/permission_dialog.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 
 class LocationService implements LocationServiceInterface{
   final LocationRepoInterface locationRepoInterface;

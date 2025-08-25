@@ -1,4 +1,4 @@
-// import 'package:stackfood_multivendor/util/app_constants.dart';
+// import 'package:Yadgir_Food/util/app_constants.dart';
 // import 'package:flutter/material.dart';
 //
 // ThemeData dark = ThemeData(
@@ -26,7 +26,7 @@
 //   dividerTheme: DividerThemeData(color: const Color(0xffa2a7ad).withValues(alpha: 0.25), thickness: 0.5),
 //   tabBarTheme: const TabBarThemeData(dividerColor: Colors.transparent),
 // );
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:flutter/material.dart';
 
 ThemeData dark = ThemeData(

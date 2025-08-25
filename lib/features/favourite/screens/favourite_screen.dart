@@ -1,12 +1,12 @@
-import 'package:stackfood_multivendor/common/widgets/web_screen_title_widget.dart';
-import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
-import 'package:stackfood_multivendor/features/favourite/controllers/favourite_controller.dart';
-import 'package:stackfood_multivendor/features/favourite/widgets/fav_item_view_widget.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_app_bar_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/menu_drawer_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/not_logged_in_screen.dart';
+import 'package:Yadgir_Food/common/widgets/web_screen_title_widget.dart';
+import 'package:Yadgir_Food/features/auth/controllers/auth_controller.dart';
+import 'package:Yadgir_Food/features/favourite/controllers/favourite_controller.dart';
+import 'package:Yadgir_Food/features/favourite/widgets/fav_item_view_widget.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_app_bar_widget.dart';
+import 'package:Yadgir_Food/common/widgets/menu_drawer_widget.dart';
+import 'package:Yadgir_Food/common/widgets/not_logged_in_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor/features/splash/domain/models/deep_link_body.dart';
+import 'package:Yadgir_Food/features/splash/domain/models/deep_link_body.dart';
 
 class LinkConverter{
 

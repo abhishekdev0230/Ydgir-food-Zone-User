@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor/common/widgets/custom_toast.dart';
+import 'package:Yadgir_Food/common/widgets/custom_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

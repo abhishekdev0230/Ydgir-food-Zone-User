@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:stackfood_multivendor/features/home/widgets/restaurants_view_widget.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
+import 'package:Yadgir_Food/features/home/widgets/restaurants_view_widget.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
 
 class DineInRestaurantShimmerWidget extends StatelessWidget {
   const DineInRestaurantShimmerWidget({super.key});

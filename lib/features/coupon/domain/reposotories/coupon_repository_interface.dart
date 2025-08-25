@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/coupon/domain/models/coupon_model.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/models/customer_coupon_model.dart';
-import 'package:stackfood_multivendor/interface/repository_interface.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/coupon_model.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/customer_coupon_model.dart';
+import 'package:Yadgir_Food/interface/repository_interface.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 
 abstract class CouponRepositoryInterface extends RepositoryInterface{

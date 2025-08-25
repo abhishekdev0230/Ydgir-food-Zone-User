@@ -1,9 +1,9 @@
-import 'package:stackfood_multivendor/features/order/controllers/order_controller.dart';
-import 'package:stackfood_multivendor/features/order/domain/models/delivery_log_model.dart';
-import 'package:stackfood_multivendor/helper/date_converter.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
-import 'package:stackfood_multivendor/common/widgets/paginated_list_view_widget.dart';
+import 'package:Yadgir_Food/features/order/controllers/order_controller.dart';
+import 'package:Yadgir_Food/features/order/domain/models/delivery_log_model.dart';
+import 'package:Yadgir_Food/helper/date_converter.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/paginated_list_view_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:pointer_interceptor/pointer_interceptor.dart';

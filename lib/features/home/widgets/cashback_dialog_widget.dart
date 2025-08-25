@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/features/home/controllers/home_controller.dart';
-import 'package:stackfood_multivendor/features/home/widgets/cashback_logo_widget.dart';
-import 'package:stackfood_multivendor/features/language/controllers/localization_controller.dart';
-import 'package:stackfood_multivendor/helper/date_converter.dart';
-import 'package:stackfood_multivendor/helper/price_converter.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/features/home/controllers/home_controller.dart';
+import 'package:Yadgir_Food/features/home/widgets/cashback_logo_widget.dart';
+import 'package:Yadgir_Food/features/language/controllers/localization_controller.dart';
+import 'package:Yadgir_Food/helper/date_converter.dart';
+import 'package:Yadgir_Food/helper/price_converter.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 
 class CashBackDialogWidget extends StatelessWidget {
   const CashBackDialogWidget({super.key});

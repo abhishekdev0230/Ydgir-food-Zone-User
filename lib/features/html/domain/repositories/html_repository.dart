@@ -1,7 +1,7 @@
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/html/domain/repositories/html_repository_interface.dart';
-import 'package:stackfood_multivendor/features/html/enums/html_type.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/html/domain/repositories/html_repository_interface.dart';
+import 'package:Yadgir_Food/features/html/enums/html_type.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 
 class HtmlRepository implements HtmlRepositoryInterface {

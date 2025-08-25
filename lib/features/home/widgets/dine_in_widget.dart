@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_asset_image_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_button_widget.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/images.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_asset_image_widget.dart';
+import 'package:Yadgir_Food/common/widgets/custom_button_widget.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/images.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 
 class DineInWidget extends StatelessWidget {
   const DineInWidget({super.key});

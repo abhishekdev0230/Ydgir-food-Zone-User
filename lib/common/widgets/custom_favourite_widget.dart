@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_asset_image_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
-import 'package:stackfood_multivendor/features/favourite/controllers/favourite_controller.dart';
-import 'package:stackfood_multivendor/helper/auth_helper.dart';
-import 'package:stackfood_multivendor/util/images.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/common/widgets/custom_asset_image_widget.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/features/favourite/controllers/favourite_controller.dart';
+import 'package:Yadgir_Food/helper/auth_helper.dart';
+import 'package:Yadgir_Food/util/images.dart';
 
 class CustomFavouriteWidget extends StatefulWidget {
   final Restaurant? restaurant;

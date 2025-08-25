@@ -1,8 +1,8 @@
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/models/coupon_model.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/models/customer_coupon_model.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/reposotories/coupon_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/coupon_model.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/customer_coupon_model.dart';
+import 'package:Yadgir_Food/features/coupon/domain/reposotories/coupon_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect/connect.dart';
 
 class CouponRepository implements CouponRepositoryInterface {

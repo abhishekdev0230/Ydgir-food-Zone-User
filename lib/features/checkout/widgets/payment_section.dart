@@ -1,12 +1,12 @@
-import 'package:stackfood_multivendor/features/checkout/controllers/checkout_controller.dart';
-import 'package:stackfood_multivendor/features/checkout/widgets/payment_method_bottom_sheet2.dart';
-import 'package:stackfood_multivendor/features/profile/controllers/profile_controller.dart';
-import 'package:stackfood_multivendor/helper/extensions.dart';
-import 'package:stackfood_multivendor/helper/price_converter.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/images.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/features/checkout/controllers/checkout_controller.dart';
+import 'package:Yadgir_Food/features/checkout/widgets/payment_method_bottom_sheet2.dart';
+import 'package:Yadgir_Food/features/profile/controllers/profile_controller.dart';
+import 'package:Yadgir_Food/helper/extensions.dart';
+import 'package:Yadgir_Food/helper/price_converter.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/images.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 class PaymentSection extends StatelessWidget {

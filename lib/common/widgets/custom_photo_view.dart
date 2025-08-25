@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:photo_view/photo_view.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
 class CustomPhotoView extends StatelessWidget {
   final String imageUrl;
   const CustomPhotoView({super.key, required this.imageUrl});

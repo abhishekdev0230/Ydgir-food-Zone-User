@@ -1,12 +1,12 @@
-// import 'package:stackfood_multivendor/features/restaurant/controllers/restaurant_controller.dart';
-// import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-// import 'package:stackfood_multivendor/data/model/body/dateMonthBody.dart';
-// import 'package:stackfood_multivendor/features/cart/domain/models/cart_model.dart';
-// import 'package:stackfood_multivendor/common/models/product_model.dart';
-// import 'package:stackfood_multivendor/features/location/domain/models/zone_response_model.dart';
-// import 'package:stackfood_multivendor/helper/address_helper.dart';
-// import 'package:stackfood_multivendor/helper/date_converter.dart';
-// import 'package:stackfood_multivendor/helper/price_converter.dart';
+// import 'package:Yadgir_Food/features/restaurant/controllers/restaurant_controller.dart';
+// import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+// import 'package:Yadgir_Food/data/model/body/dateMonthBody.dart';
+// import 'package:Yadgir_Food/features/cart/domain/models/cart_model.dart';
+// import 'package:Yadgir_Food/common/models/product_model.dart';
+// import 'package:Yadgir_Food/features/location/domain/models/zone_response_model.dart';
+// import 'package:Yadgir_Food/helper/address_helper.dart';
+// import 'package:Yadgir_Food/helper/date_converter.dart';
+// import 'package:Yadgir_Food/helper/price_converter.dart';
 // import 'package:get/get.dart';
 //
 // class CheckoutHelper {

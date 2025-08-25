@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor/features/chat/domain/models/conversation_model.dart';
+import 'package:Yadgir_Food/features/chat/domain/models/conversation_model.dart';
 
 class MessageModel {
   int? totalSize;

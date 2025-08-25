@@ -1,8 +1,8 @@
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/features/notification/domain/models/notification_model.dart';
-import 'package:stackfood_multivendor/features/notification/domain/repository/notification_repository_interface.dart';
-import 'package:stackfood_multivendor/features/notification/domain/service/notification_service_interface.dart';
-import 'package:stackfood_multivendor/helper/date_converter.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/features/notification/domain/models/notification_model.dart';
+import 'package:Yadgir_Food/features/notification/domain/repository/notification_repository_interface.dart';
+import 'package:Yadgir_Food/features/notification/domain/service/notification_service_interface.dart';
+import 'package:Yadgir_Food/helper/date_converter.dart';
 
 class NotificationService implements NotificationServiceInterface {
   final NotificationRepositoryInterface notificationRepositoryInterface;

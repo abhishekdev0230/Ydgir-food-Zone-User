@@ -2,9 +2,9 @@ import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:drift/drift.dart' as drift;
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/data_source/cache_response.dart';
-import 'package:stackfood_multivendor/helper/db_helper.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/data_source/cache_response.dart';
+import 'package:Yadgir_Food/helper/db_helper.dart';
 
 class LocalClient {
 
