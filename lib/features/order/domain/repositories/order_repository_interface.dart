@@ -1,10 +1,10 @@
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/features/order/domain/models/delivery_log_model.dart';
-import 'package:stackfood_multivendor/features/order/domain/models/order_cancellation_body.dart';
-import 'package:stackfood_multivendor/features/order/domain/models/order_model.dart';
-import 'package:stackfood_multivendor/features/order/domain/models/pause_log_model.dart';
-import 'package:stackfood_multivendor/interface/repository_interface.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/features/order/domain/models/delivery_log_model.dart';
+import 'package:Yadgir_Food/features/order/domain/models/order_cancellation_body.dart';
+import 'package:Yadgir_Food/features/order/domain/models/order_model.dart';
+import 'package:Yadgir_Food/features/order/domain/models/pause_log_model.dart';
+import 'package:Yadgir_Food/interface/repository_interface.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 import 'package:image_picker/image_picker.dart';
 

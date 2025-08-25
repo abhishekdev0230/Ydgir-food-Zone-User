@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/features/verification/domein/model/verification_data_model.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/features/verification/domein/model/verification_data_model.dart';
 
 abstract class VerificationServiceInterface{
   Future<ResponseModel> forgetPassword({String? phone, String? email});

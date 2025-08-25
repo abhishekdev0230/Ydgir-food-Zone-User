@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor/features/wallet/domain/models/fund_bonus_model.dart';
+import 'package:Yadgir_Food/features/wallet/domain/models/fund_bonus_model.dart';
 
 class RestaurantModel {
   int? totalSize;

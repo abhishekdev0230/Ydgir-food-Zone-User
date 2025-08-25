@@ -1,4 +1,4 @@
-# Stackfood Multivendor App
+# YadgirFood Multivendor App
 
 A new Flutter application.
 

@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/interest/domain/repositories/interest_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/interest/domain/repositories/interest_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 
 class InterestRepository implements InterestRepositoryInterface{

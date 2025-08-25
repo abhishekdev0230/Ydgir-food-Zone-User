@@ -1,13 +1,13 @@
 import 'dart:convert';
 
-import 'package:stackfood_multivendor/api/local_client.dart';
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/restaurant/domain/models/recommended_product_model.dart';
-import 'package:stackfood_multivendor/features/restaurant/domain/repositories/restaurant_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/local_client.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/restaurant/domain/models/recommended_product_model.dart';
+import 'package:Yadgir_Food/features/restaurant/domain/repositories/restaurant_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

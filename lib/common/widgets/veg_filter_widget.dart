@@ -1,8 +1,8 @@
-import 'package:stackfood_multivendor/features/language/controllers/localization_controller.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/features/product/controllers/product_controller.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/features/language/controllers/localization_controller.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/features/product/controllers/product_controller.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

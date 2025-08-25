@@ -1,8 +1,8 @@
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/search/domain/repositories/search_repository_interface.dart';
-import 'package:stackfood_multivendor/features/search/domain/models/search_suggestion_model.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/search/domain/repositories/search_repository_interface.dart';
+import 'package:Yadgir_Food/features/search/domain/models/search_suggestion_model.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

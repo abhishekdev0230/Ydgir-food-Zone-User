@@ -1,7 +1,7 @@
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/features/profile/controllers/profile_controller.dart';
-import 'package:stackfood_multivendor/features/verification/domein/model/verification_data_model.dart';
-import 'package:stackfood_multivendor/features/verification/domein/services/verification_service_interface.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/features/profile/controllers/profile_controller.dart';
+import 'package:Yadgir_Food/features/verification/domein/model/verification_data_model.dart';
+import 'package:Yadgir_Food/features/verification/domein/services/verification_service_interface.dart';
 import 'package:get/get.dart';
 
 class VerificationController extends GetxController implements GetxService {

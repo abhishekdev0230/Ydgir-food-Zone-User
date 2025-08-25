@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/html/domain/repositories/html_repository_interface.dart';
-import 'package:stackfood_multivendor/features/html/domain/services/html_service_interface.dart';
-import 'package:stackfood_multivendor/features/html/enums/html_type.dart';
+import 'package:Yadgir_Food/features/html/domain/repositories/html_repository_interface.dart';
+import 'package:Yadgir_Food/features/html/domain/services/html_service_interface.dart';
+import 'package:Yadgir_Food/features/html/enums/html_type.dart';
 import 'package:get/get_connect.dart';
 
 class HtmlService implements HtmlServiceInterface {

@@ -1,5 +1,5 @@
 
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
 
 class DineInModel {
   int? totalSize;

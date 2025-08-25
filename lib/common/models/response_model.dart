@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/features/auth/domain/models/auth_response_model.dart';
-import 'package:stackfood_multivendor/features/profile/domain/models/update_profile_response_model.dart';
+import 'package:Yadgir_Food/features/auth/domain/models/auth_response_model.dart';
+import 'package:Yadgir_Food/features/profile/domain/models/update_profile_response_model.dart';
 
 class ResponseModel {
   final bool _isSuccess;

@@ -1,12 +1,12 @@
 import 'dart:convert';
 
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/api/local_client.dart';
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/features/address/domain/reposotories/address_repo_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/api/local_client.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/features/address/domain/reposotories/address_repo_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get.dart';
 
 class AddressRepo implements AddressRepoInterface<AddressModel> {

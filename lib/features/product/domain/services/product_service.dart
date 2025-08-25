@@ -1,9 +1,9 @@
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/features/cart/domain/models/cart_model.dart';
-import 'package:stackfood_multivendor/features/product/domain/repositories/product_repository_interface.dart';
-import 'package:stackfood_multivendor/features/product/domain/services/product_service_interface.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/features/cart/domain/models/cart_model.dart';
+import 'package:Yadgir_Food/features/product/domain/repositories/product_repository_interface.dart';
+import 'package:Yadgir_Food/features/product/domain/services/product_service_interface.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

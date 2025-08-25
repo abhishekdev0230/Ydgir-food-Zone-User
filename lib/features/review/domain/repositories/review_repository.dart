@@ -1,14 +1,14 @@
 import 'dart:convert';
 
-import 'package:stackfood_multivendor/api/local_client.dart';
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/common/models/review_model.dart';
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/product/domain/models/review_body_model.dart';
-import 'package:stackfood_multivendor/features/review/domain/repositories/review_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/local_client.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/common/models/review_model.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/product/domain/models/review_body_model.dart';
+import 'package:Yadgir_Food/features/review/domain/repositories/review_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get.dart';
 
 class ReviewRepository implements ReviewRepositoryInterface {

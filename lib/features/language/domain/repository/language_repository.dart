@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/features/language/domain/repository/language_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/features/language/domain/repository/language_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 class AddressDetailsWidget extends StatelessWidget {

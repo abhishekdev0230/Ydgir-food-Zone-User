@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/features/auth/controllers/auth_controller.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/business/domain/models/package_model.dart';
-import 'package:stackfood_multivendor/features/splash/domain/models/config_model.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/business/domain/models/package_model.dart';
+import 'package:Yadgir_Food/features/splash/domain/models/config_model.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 import 'package:image_picker/image_picker.dart';

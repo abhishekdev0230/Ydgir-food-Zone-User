@@ -1,12 +1,12 @@
-import 'package:stackfood_multivendor/features/cuisine/controllers/cuisine_controller.dart';
-import 'package:stackfood_multivendor/features/search/controllers/search_controller.dart' as search;
-import 'package:stackfood_multivendor/features/search/widgets/custom_check_box_widget.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/helper/price_converter.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_button_widget.dart';
+import 'package:Yadgir_Food/features/cuisine/controllers/cuisine_controller.dart';
+import 'package:Yadgir_Food/features/search/controllers/search_controller.dart' as search;
+import 'package:Yadgir_Food/features/search/widgets/custom_check_box_widget.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/helper/price_converter.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

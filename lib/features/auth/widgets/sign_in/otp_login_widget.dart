@@ -1,17 +1,17 @@
 import 'package:country_code_picker/country_code_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_button_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_text_field_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/validate_check.dart';
-import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
-import 'package:stackfood_multivendor/features/auth/widgets/social_login_widget.dart';
-import 'package:stackfood_multivendor/features/auth/widgets/trams_conditions_check_box_widget.dart';
-import 'package:stackfood_multivendor/features/language/controllers/localization_controller.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_button_widget.dart';
+import 'package:Yadgir_Food/common/widgets/custom_text_field_widget.dart';
+import 'package:Yadgir_Food/common/widgets/validate_check.dart';
+import 'package:Yadgir_Food/features/auth/controllers/auth_controller.dart';
+import 'package:Yadgir_Food/features/auth/widgets/social_login_widget.dart';
+import 'package:Yadgir_Food/features/auth/widgets/trams_conditions_check_box_widget.dart';
+import 'package:Yadgir_Food/features/language/controllers/localization_controller.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 
 class OtpLoginWidget extends StatelessWidget {
   final TextEditingController phoneController;

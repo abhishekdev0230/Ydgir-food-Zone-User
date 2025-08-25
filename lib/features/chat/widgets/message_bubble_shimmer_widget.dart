@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/features/chat/controllers/chat_controller.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
+import 'package:Yadgir_Food/features/chat/controllers/chat_controller.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';

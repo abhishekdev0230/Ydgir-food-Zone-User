@@ -1,8 +1,8 @@
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/features/product/domain/models/basic_campaign_model.dart';
-import 'package:stackfood_multivendor/features/product/domain/repositories/campaign_repository_interface.dart';
-import 'package:stackfood_multivendor/features/product/domain/services/campaign_service_interface.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/features/product/domain/models/basic_campaign_model.dart';
+import 'package:Yadgir_Food/features/product/domain/repositories/campaign_repository_interface.dart';
+import 'package:Yadgir_Food/features/product/domain/services/campaign_service_interface.dart';
 
 class CampaignService implements CampaignServiceInterface {
   final CampaignRepositoryInterface campaignRepositoryInterface;

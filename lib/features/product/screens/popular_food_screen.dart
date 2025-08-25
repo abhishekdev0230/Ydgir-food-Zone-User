@@ -1,11 +1,11 @@
-import 'package:stackfood_multivendor/features/restaurant/controllers/restaurant_controller.dart';
-import 'package:stackfood_multivendor/features/product/controllers/product_controller.dart';
-import 'package:stackfood_multivendor/features/review/controllers/review_controller.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_app_bar_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/footer_view_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/menu_drawer_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/product_view_widget.dart';
+import 'package:Yadgir_Food/features/restaurant/controllers/restaurant_controller.dart';
+import 'package:Yadgir_Food/features/product/controllers/product_controller.dart';
+import 'package:Yadgir_Food/features/review/controllers/review_controller.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/common/widgets/custom_app_bar_widget.dart';
+import 'package:Yadgir_Food/common/widgets/footer_view_widget.dart';
+import 'package:Yadgir_Food/common/widgets/menu_drawer_widget.dart';
+import 'package:Yadgir_Food/common/widgets/product_view_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

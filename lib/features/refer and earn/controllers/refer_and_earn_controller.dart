@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
-import 'package:stackfood_multivendor/features/profile/controllers/profile_controller.dart';
-import 'package:stackfood_multivendor/features/profile/domain/models/userinfo_model.dart';
+import 'package:Yadgir_Food/features/auth/controllers/auth_controller.dart';
+import 'package:Yadgir_Food/features/profile/controllers/profile_controller.dart';
+import 'package:Yadgir_Food/features/profile/domain/models/userinfo_model.dart';
 import 'package:get/get.dart';
 
 class ReferAndEarnController extends GetxController implements GetxService {

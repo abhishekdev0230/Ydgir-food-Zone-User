@@ -1,7 +1,7 @@
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/features/cuisine/domain/models/cuisine_model.dart';
-import 'package:stackfood_multivendor/features/cuisine/domain/models/cuisine_restaurants_model.dart';
-import 'package:stackfood_multivendor/features/cuisine/domain/services/cuisine_service_interface.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/features/cuisine/domain/models/cuisine_model.dart';
+import 'package:Yadgir_Food/features/cuisine/domain/models/cuisine_restaurants_model.dart';
+import 'package:Yadgir_Food/features/cuisine/domain/services/cuisine_service_interface.dart';
 import 'package:get/get.dart';
 
 class CuisineController extends GetxController implements GetxService {

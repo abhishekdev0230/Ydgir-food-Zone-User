@@ -1,15 +1,15 @@
 
 import 'package:country_code_picker/country_code_picker.dart';
-import 'package:stackfood_multivendor/features/checkout/controllers/checkout_controller.dart';
-import 'package:stackfood_multivendor/features/language/controllers/localization_controller.dart';
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/helper/address_helper.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/images.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_text_field_widget.dart';
+import 'package:Yadgir_Food/features/checkout/controllers/checkout_controller.dart';
+import 'package:Yadgir_Food/features/language/controllers/localization_controller.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/helper/address_helper.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/images.dart';
+import 'package:Yadgir_Food/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_text_field_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

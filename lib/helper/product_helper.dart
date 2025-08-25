@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/helper/date_converter.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/helper/date_converter.dart';
 
 class ProductHelper {
 

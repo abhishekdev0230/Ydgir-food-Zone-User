@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/onboard/domain/models/onboarding_model.dart';
-import 'package:stackfood_multivendor/features/onboard/domain/repository/onboard_repository_interface.dart';
-import 'package:stackfood_multivendor/features/onboard/domain/service/onboard_service_interface.dart';
+import 'package:Yadgir_Food/features/onboard/domain/models/onboarding_model.dart';
+import 'package:Yadgir_Food/features/onboard/domain/repository/onboard_repository_interface.dart';
+import 'package:Yadgir_Food/features/onboard/domain/service/onboard_service_interface.dart';
 
 class OnboardService implements OnboardServiceInterface {
   final OnboardRepositoryInterface onboardRepositoryInterface;

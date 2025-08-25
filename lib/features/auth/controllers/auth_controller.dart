@@ -1,18 +1,18 @@
 import 'package:country_code_picker/country_code_picker.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:stackfood_multivendor/common/models/response_model.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
-import 'package:stackfood_multivendor/features/cart/controllers/cart_controller.dart';
-import 'package:stackfood_multivendor/features/profile/controllers/profile_controller.dart';
-import 'package:stackfood_multivendor/features/profile/domain/models/update_user_model.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/features/auth/domain/models/signup_body_model.dart';
-import 'package:stackfood_multivendor/features/auth/domain/models/social_log_in_body_model.dart';
-import 'package:stackfood_multivendor/features/auth/domain/services/auth_service_interface.dart';
+import 'package:Yadgir_Food/common/models/response_model.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/features/cart/controllers/cart_controller.dart';
+import 'package:Yadgir_Food/features/profile/controllers/profile_controller.dart';
+import 'package:Yadgir_Food/features/profile/domain/models/update_user_model.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/features/auth/domain/models/signup_body_model.dart';
+import 'package:Yadgir_Food/features/auth/domain/models/social_log_in_body_model.dart';
+import 'package:Yadgir_Food/features/auth/domain/services/auth_service_interface.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/features/verification/screens/verification_screen.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
+import 'package:Yadgir_Food/features/verification/screens/verification_screen.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
 
 class AuthController extends GetxController implements GetxService {
   final AuthServiceInterface authServiceInterface;

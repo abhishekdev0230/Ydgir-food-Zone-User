@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_asset_image_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_image_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_ink_well_widget.dart';
-import 'package:stackfood_multivendor/common/widgets/not_available_widget.dart';
-import 'package:stackfood_multivendor/features/dine_in/controllers/dine_in_controller.dart';
-import 'package:stackfood_multivendor/features/home/widgets/arrow_icon_button_widget.dart';
-import 'package:stackfood_multivendor/features/home/widgets/icon_with_text_row_widget.dart';
-import 'package:stackfood_multivendor/features/restaurant/controllers/restaurant_controller.dart';
-import 'package:stackfood_multivendor/features/restaurant/screens/restaurant_screen.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/images.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_asset_image_widget.dart';
+import 'package:Yadgir_Food/common/widgets/custom_image_widget.dart';
+import 'package:Yadgir_Food/common/widgets/custom_ink_well_widget.dart';
+import 'package:Yadgir_Food/common/widgets/not_available_widget.dart';
+import 'package:Yadgir_Food/features/dine_in/controllers/dine_in_controller.dart';
+import 'package:Yadgir_Food/features/home/widgets/arrow_icon_button_widget.dart';
+import 'package:Yadgir_Food/features/home/widgets/icon_with_text_row_widget.dart';
+import 'package:Yadgir_Food/features/restaurant/controllers/restaurant_controller.dart';
+import 'package:Yadgir_Food/features/restaurant/screens/restaurant_screen.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/images.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 
 class WebDineInWidget extends StatefulWidget {
   const WebDineInWidget({super.key});

@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/features/splash/domain/models/config_model.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/features/splash/domain/models/config_model.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 
 abstract class SplashServiceInterface {

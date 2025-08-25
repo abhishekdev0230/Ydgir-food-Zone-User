@@ -1,14 +1,14 @@
 
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/features/auth/controllers/auth_controller.dart';
-import 'package:stackfood_multivendor/features/favourite/controllers/favourite_controller.dart';
-import 'package:stackfood_multivendor/features/notification/domain/models/notification_body_model.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/features/splash/domain/models/deep_link_body.dart';
-import 'package:stackfood_multivendor/helper/address_helper.dart';
-import 'package:stackfood_multivendor/helper/maintance_helper.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/features/auth/controllers/auth_controller.dart';
+import 'package:Yadgir_Food/features/favourite/controllers/favourite_controller.dart';
+import 'package:Yadgir_Food/features/notification/domain/models/notification_body_model.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/features/splash/domain/models/deep_link_body.dart';
+import 'package:Yadgir_Food/helper/address_helper.dart';
+import 'package:Yadgir_Food/helper/maintance_helper.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 
 void route({required NotificationBodyModel? notificationBody, required DeepLinkBody? linkBody}) {
   double? minimumVersion = _getMinimumVersion();

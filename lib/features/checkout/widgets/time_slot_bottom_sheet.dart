@@ -1,15 +1,15 @@
 
-import 'package:stackfood_multivendor/features/checkout/controllers/checkout_controller.dart';
-import 'package:stackfood_multivendor/features/checkout/domain/models/date_month_body_model.dart';
-import 'package:stackfood_multivendor/features/checkout/widgets/slot_widget.dart';
-import 'package:stackfood_multivendor/features/restaurant/controllers/restaurant_controller.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
-import 'package:stackfood_multivendor/helper/date_converter.dart';
-import 'package:stackfood_multivendor/helper/responsive_helper.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_button_widget.dart';
+import 'package:Yadgir_Food/features/checkout/controllers/checkout_controller.dart';
+import 'package:Yadgir_Food/features/checkout/domain/models/date_month_body_model.dart';
+import 'package:Yadgir_Food/features/checkout/widgets/slot_widget.dart';
+import 'package:Yadgir_Food/features/restaurant/controllers/restaurant_controller.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/helper/date_converter.dart';
+import 'package:Yadgir_Food/helper/responsive_helper.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
+import 'package:Yadgir_Food/common/widgets/custom_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:syncfusion_flutter_datepicker/datepicker.dart';

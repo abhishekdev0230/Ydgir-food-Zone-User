@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor/features/product/domain/models/basic_campaign_model.dart';
-import 'package:stackfood_multivendor/common/models/product_model.dart';
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/features/product/domain/models/basic_campaign_model.dart';
+import 'package:Yadgir_Food/common/models/product_model.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
 
 class BannerModel {
   List<BasicCampaignModel>? campaigns;

@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
 
 class MaintenanceHelper{
   static bool isMaintenanceEnable() {

@@ -1,10 +1,10 @@
-import 'package:stackfood_multivendor/features/checkout/controllers/checkout_controller.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/models/coupon_model.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/models/customer_coupon_model.dart';
-import 'package:stackfood_multivendor/features/coupon/domain/services/coupon_service_interface.dart';
-import 'package:stackfood_multivendor/features/profile/controllers/profile_controller.dart';
-import 'package:stackfood_multivendor/helper/price_converter.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/features/checkout/controllers/checkout_controller.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/coupon_model.dart';
+import 'package:Yadgir_Food/features/coupon/domain/models/customer_coupon_model.dart';
+import 'package:Yadgir_Food/features/coupon/domain/services/coupon_service_interface.dart';
+import 'package:Yadgir_Food/features/profile/controllers/profile_controller.dart';
+import 'package:Yadgir_Food/helper/price_converter.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
 import 'package:get/get.dart';
 
 class CouponController extends GetxController implements GetxService {

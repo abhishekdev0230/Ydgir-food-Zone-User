@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/features/checkout/domain/models/offline_method_model.dart';
-import 'package:stackfood_multivendor/features/checkout/domain/models/place_order_body_model.dart';
-import 'package:stackfood_multivendor/features/checkout/domain/repositories/checkout_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/features/checkout/domain/models/offline_method_model.dart';
+import 'package:Yadgir_Food/features/checkout/domain/models/place_order_body_model.dart';
+import 'package:Yadgir_Food/features/checkout/domain/repositories/checkout_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:get/get_connect.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 

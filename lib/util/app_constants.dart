@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor/features/language/domain/models/language_model.dart';
-import 'package:stackfood_multivendor/util/images.dart';
+import 'package:Yadgir_Food/features/language/domain/models/language_model.dart';
+import 'package:Yadgir_Food/util/images.dart';
 import 'package:get/get.dart';
 
 class AppConstants {

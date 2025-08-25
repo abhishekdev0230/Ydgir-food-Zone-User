@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:stackfood_multivendor/api/api_client.dart';
-import 'package:stackfood_multivendor/common/enums/data_source_enum.dart';
-import 'package:stackfood_multivendor/features/splash/domain/repositories/splash_repository_interface.dart';
-import 'package:stackfood_multivendor/util/app_constants.dart';
+import 'package:Yadgir_Food/api/api_client.dart';
+import 'package:Yadgir_Food/common/enums/data_source_enum.dart';
+import 'package:Yadgir_Food/features/splash/domain/repositories/splash_repository_interface.dart';
+import 'package:Yadgir_Food/util/app_constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 import 'package:shared_preferences/shared_preferences.dart';

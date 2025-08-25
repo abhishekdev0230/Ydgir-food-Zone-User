@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor/features/location/domain/models/zone_response_model.dart';
+import 'package:Yadgir_Food/features/location/domain/models/zone_response_model.dart';
 
 class AddressModel {
   int? id;

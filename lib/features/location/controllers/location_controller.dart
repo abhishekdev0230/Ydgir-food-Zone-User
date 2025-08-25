@@ -1,19 +1,19 @@
-import 'package:stackfood_multivendor/features/cart/controllers/cart_controller.dart';
-import 'package:stackfood_multivendor/features/checkout/controllers/checkout_controller.dart';
-import 'package:stackfood_multivendor/features/home/screens/home_screen.dart';
-import 'package:stackfood_multivendor/features/location/domain/models/prediction_model.dart';
-import 'package:stackfood_multivendor/features/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor/features/favourite/controllers/favourite_controller.dart';
-import 'package:stackfood_multivendor/features/location/domain/models/zone_response_model.dart';
-import 'package:stackfood_multivendor/features/address/domain/models/address_model.dart';
-import 'package:stackfood_multivendor/features/location/domain/services/location_service_interface.dart';
-import 'package:stackfood_multivendor/helper/address_helper.dart';
-import 'package:stackfood_multivendor/helper/auth_helper.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_snackbar_widget.dart';
+import 'package:Yadgir_Food/features/cart/controllers/cart_controller.dart';
+import 'package:Yadgir_Food/features/checkout/controllers/checkout_controller.dart';
+import 'package:Yadgir_Food/features/home/screens/home_screen.dart';
+import 'package:Yadgir_Food/features/location/domain/models/prediction_model.dart';
+import 'package:Yadgir_Food/features/splash/controllers/splash_controller.dart';
+import 'package:Yadgir_Food/features/favourite/controllers/favourite_controller.dart';
+import 'package:Yadgir_Food/features/location/domain/models/zone_response_model.dart';
+import 'package:Yadgir_Food/features/address/domain/models/address_model.dart';
+import 'package:Yadgir_Food/features/location/domain/services/location_service_interface.dart';
+import 'package:Yadgir_Food/helper/address_helper.dart';
+import 'package:Yadgir_Food/helper/auth_helper.dart';
+import 'package:Yadgir_Food/common/widgets/custom_snackbar_widget.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:stackfood_multivendor/helper/route_helper.dart';
+import 'package:Yadgir_Food/helper/route_helper.dart';
 
 class LocationController extends GetxController implements GetxService {
   final LocationServiceInterface locationServiceInterface;

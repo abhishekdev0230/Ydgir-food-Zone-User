@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:stackfood_multivendor/common/models/restaurant_model.dart';
-import 'package:stackfood_multivendor/common/widgets/custom_image_widget.dart';
-import 'package:stackfood_multivendor/features/profile/domain/models/userinfo_model.dart';
-import 'package:stackfood_multivendor/util/dimensions.dart';
-import 'package:stackfood_multivendor/util/styles.dart';
+import 'package:Yadgir_Food/common/models/restaurant_model.dart';
+import 'package:Yadgir_Food/common/widgets/custom_image_widget.dart';
+import 'package:Yadgir_Food/features/profile/domain/models/userinfo_model.dart';
+import 'package:Yadgir_Food/util/dimensions.dart';
+import 'package:Yadgir_Food/util/styles.dart';
 
 class MapCustomInfoWindowWidget extends StatelessWidget {
   final Restaurant? restaurant;
