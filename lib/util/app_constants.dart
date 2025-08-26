@@ -3,8 +3,8 @@ import 'package:Yadgir_Food/util/images.dart';
 import 'package:get/get.dart';
 
 class AppConstants {
-  static const String appName = 'StackFood';
-  static const double appVersion = 8.3; ///Flutter SDK: 3.32.7
+  static const String appName = 'Yadgir Food Zoon';
+  static const double appVersion = 1.0; ///Flutter SDK: 3.32.7
 
   static const String fontFamily = 'Roboto';
   static const bool payInWevView = false;
