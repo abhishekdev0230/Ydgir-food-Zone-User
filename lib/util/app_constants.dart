@@ -3,7 +3,7 @@ import 'package:Yadgir_Food/util/images.dart';
 import 'package:get/get.dart';
 
 class AppConstants {
-  static const String appName = 'Yadgir Food Zoon';
+  static const String appName = 'Yadgir Food Zone';
   static const double appVersion = 1.0; ///Flutter SDK: 3.32.7
 
   static const String fontFamily = 'Roboto';
